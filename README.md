@@ -1,9 +1,11 @@
-## Hi, I'm Tancredi Bosi 👋
+<h3 align="center">Hi, I'm Tancredi Bosi</h3>
 
-🚀 **AI Engineer**
+<p align="center">AI Engineer<br>Full Stack Developer Expert on AI Based Products at LAIF, Bologna</p>
 
-Now: **Full Stack Developer Expert on AI Based Products** at **LAIF**
+<br clear="both">
 
-Welcome to my GitHub profile! I'm passionate about building intelligent systems and currently work as a Full Stack Developer, specializing in AI-powered products. My goal is to transition into a dedicated AI Engineer role, blending creativity with the latest advances in artificial intelligence.
+<p align="center">Take a look at my projects here on GitHub or at my website https://tancredi.bosi.github.io</p>
 
-<img src="https://profile-counter.glitch.me/tancredibosi/count.svg?"  />
+<div align="center">
+  <img src="https://profile-counter.glitch.me/tancredibosi/count.svg?"  />
+</div>
