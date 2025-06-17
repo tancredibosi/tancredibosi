@@ -6,9 +6,13 @@
 
 <p align="center">Take a look at my projects here on GitHub or at my website https://tancredi.bosi.github.io</p>
 
+<br clear="both">
+
 <div align="center">
   <img src="https://profile-counter.glitch.me/tancredibosi/count.svg?"  />
 </div>
+
+<br clear="both">
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
