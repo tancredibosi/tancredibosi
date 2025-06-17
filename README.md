@@ -1,6 +1,6 @@
-## Hi ther# Hi, I'm Tancredi Bosi 👋
+## Hi, I'm Tancredi Bosi 👋
 
-🚀 **AI Engineer Wannabe | Full Stack Developer Focused on AI Products**
+🚀 **AI Engineer | Full Stack Developer Expert on AI Based Products**
 
 Welcome to my GitHub profile! I'm passionate about building intelligent systems and currently work as a Full Stack Developer, specializing in AI-powered products. My goal is to transition into a dedicated AI Engineer role, blending creativity with the latest advances in artificial intelligence.
 
@@ -20,13 +20,6 @@ Welcome to my GitHub profile! I'm passionate about building intelligent systems 
 - Develop and deploy end-to-end AI solutions
 - Build scalable full stack applications with a focus on intelligent features
 - Continuously learn and apply new AI techniques to real-world problems
-
----
-
-## 🎯 On My Way To…
-
-- Sharpening my skills as an AI Engineer
-- Exploring advanced topics in deep learning and generative AI
 
 ---
 
