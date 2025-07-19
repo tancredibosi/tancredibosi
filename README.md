@@ -8,10 +8,6 @@
 
 <br clear="both">
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/tancredibosi/count.svg?"  />
-</div>
-
 <br clear="both">
 
 <p align="center">
